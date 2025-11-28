@@ -1,16 +1,16 @@
 <div align="center">
 
-# 🗞️ **RAZ_T491** - TECHY & PENTESTER
+#  **RAZ_T491** - TECHY & PENTESTER
 
 ---
 
-### 📰 **DAILY TECH EDITION** • EST. 2024 • CYBER SECURITY VOLUME
+###  **DAILY TECH EDITION** 
 
 *"Just a Techy who loves breaking things... and then building them better!"*
 
 ---
 
-### 🔥 **BREAKING NEWS: CORE COMPETENCIES** 🔥
+### 🔥  CORE COMPETENCIES** 🔥
 
 <table align="center">
 <tr>
@@ -50,6 +50,7 @@
 - **Node.js Runtime**
 - **RESTful APIs**
 - **Data Architecture**
+- **Supabase** 
 
 </td>
 </tr>
@@ -57,7 +58,7 @@
 
 ---
 
-### 🎯 **SPECIAL REPORT: PENTESTING DOMAIN** 🎯
+### 🎯  PENTESTING DOMAIN** 🎯
 
 <details>
 <summary>🔐 **EXPERTISE AREAS**</summary>
@@ -94,7 +95,7 @@
 
 <div align="center">
 
-🦀 **Rust** • 🐍 **Python** • ⚛️ **React** • 📘 **TypeScript** • 🟢 **Node.js** • 🗄️ **SQLite3** • ⚡ **FastAPI** • 🔧 **FlaskAPI**
+🦀 **Rust** • 🐍 **Python** • ⚛️ **React** • 📘 **TypeScript** • 🟢 **Node.js** • 🗄️ **SQLite3** • ⚡ **FastAPI** • 🔧 **FlaskAPI** • 📊**Supabase** •
 
 </div>
 
@@ -105,7 +106,7 @@
 <div align="center">
 
 #### 💬 **DISCORD: raz_t491**
-*Available for security consultations, tech discussions, and collaborative projects*
+*for tech discussions, and collaborative projects*
 
 </div>
 
@@ -113,13 +114,13 @@
 
 ### 🚨 **CLASSIFIED: OPERATOR MANIFESTO** 🚨
 
-*"In the digital realm, I don't just code – I architect solutions and break barriers. Whether building secure systems or finding their weaknesses, every line of code is a step towards understanding the machine's soul."*
+*"In the digital realm, whether building secure systems or finding their weaknesses, every line of code is a step towards understanding the machine's soul."*
 
 ---
 
 ### 📰 **SUBSCRIBE TO THE TECHY CHRONICLES** 📰
 
-*"From zero-day exploits to elegant code architecture – this is where technology meets creativity. Stay tuned for cutting-edge solutions and security insights."*
+*"From zero-day exploits to elegant code architecture – this is where technology meets creativity. Stay tuned for cutting-edge stuffs  and security insights."*
 
 ---
 
